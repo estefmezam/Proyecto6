@@ -7,3 +7,4 @@ comandos.
 El objetivo principal del proyecto, es la creacion y gestion de un entorno virtual en Python, y 
 desarrollar una aplicacion web, asi como hacer uso de la nube. 
 Siguiendo los pasos se logro lo siguiente: 
+https://proyecto6-7uk8.onrender.com
